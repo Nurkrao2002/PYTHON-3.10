@@ -1,7 +1,7 @@
 """Data_Type_Float"""
 
-# The float type in Python represents the floating point number.
-# Float is used to represent real numbers and is written with a decimal point dividing the integer and fractional parts.
+The float type in Python represents the floating point number.
+Float is used to represent real numbers and is written with a decimal point dividing the integer and fractional parts.
 
 
 print(3409.900)         # float
